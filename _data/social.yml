@@ -1,9 +1,9 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: BobHolmesSkywalker
+  url: https://github.com/BobHolmesSkywalker
 
 - sitename: 掘金
-  name: mzlogin
+  name: HNI
   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
 
 - sitename: LinkedIn
@@ -11,8 +11,8 @@
   url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: This_is_it
+  url: http://BobHolmesSkywalker.github.io
 
 - sitename: 微博
   name: mzlogin
