@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: About me
+description: We're bound to conquer the galaxy
+keywords: Ruilin Lu, 卢瑞林
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是卢瑞林，来自sjtu，dyt是谁？我不知道
 
-仰慕「优雅编码的艺术」。
+水源巨星
 
-坚信熟能生巧，努力改变人生。
+恰饭狂魔 恩格尔系数99
 
 ## 联系
 
