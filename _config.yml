@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://BobHolmesSkywalker.github.io
 date_format: "ordinal"
 title: Blog
 subtitle: "Ruilin Lu's Blog"
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 最偶然的意外
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Ruilin Lu
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: BobHolmesSkywalker
+location: Chengdu, China
+email: Lu_Skywalker2915@sjtu.edu.cn
 
 # ---------------- #
 #    Navigation    #
